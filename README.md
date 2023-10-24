@@ -51,8 +51,12 @@ The dataset were duplicated and modified to make it more suitable for analysis. 
 
 # Recommendations
 a) California's Northern areas needs to be managed considering the average total payment there is $15,481.24
+
 b) More medical facilities should be developed in Alaska to reduce cost of healthcare
+
 c) Since hospitals in Florida and California register more patient discharges, better facilities and medical equipment should be provided to further improve patient care
+
 d) The case of spinal fusion seems to be widespread among providers, better tools should be available to modify medical treatment
+
 e) Florida's medicare payment should be increased to better serve the state's citizens
 
