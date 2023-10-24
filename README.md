@@ -46,5 +46,13 @@ The dataset were duplicated and modified to make it more suitable for analysis. 
 8) All states in the top 10 high Medicare payment were all made by top 10 high average total payment. However, some states changed their positions. As stated earlier, Alaska has the highest average total payment. Other states with high average charges include; District of Columbia ($12,978.03), California ($12,629.67), Maryland ($12,608.95), Hawaii ($12,775.74), New York ($11,795.49), Vermont ($11,766.30), Connecticut ($11,365.45), New Jersey ($10,678.99), Wyoming ($11,398.49).
 ![IMG_1725](https://github.com/OlotoDamilola/Medicare-and-Medicaid-Analysis-on-Healthcare-Charges/assets/109422215/66896576-b910-4779-8fbd-499c26ef7edf)
 
-9) AS stated earlier when analyzing the the high resource conditions. Septicemia is the most expensive at $44,259.49 total payments and  $41,899.43 Medicare payments. Infectious and Parasitic Diseases comes in second place at average total payment of $40,315.96 and Medicare payment of $37,818.74. Hip & Femur Procedures Except Major Joint is in the 10th position of total payment of $20,984.37 and Medicare payment of $19,616.95. There was an average of $2,253.30 between the total payment and  Medicare payment of the high resource conditions.
+9) As stated earlier when analyzing the the high resource conditions. Septicemia is the most expensive at $44,259.49 total payments and  $41,899.43 Medicare payments. Infectious and Parasitic Diseases comes in second place at average total payment of $40,315.96 and Medicare payment of $37,818.74. Hip & Femur Procedures Except Major Joint is in the 10th position of total payment of $20,984.37 and Medicare payment of $19,616.95. There was an average of $2,253.30 between the total payment and  Medicare payment of the high resource conditions.
 ![IMG_1743](https://github.com/OlotoDamilola/Medicare-and-Medicaid-Analysis-on-Healthcare-Charges/assets/109422215/d9a186ea-67e5-49c4-aed0-5c776c4bd5ae)
+
+# Recommendations
+a) California's Northern areas needs to be managed considering the average total payment there is $15,481.24
+b) More medical facilities should be developed in Alaska to reduce cost of healthcare
+c) Since hospitals in Florida and California register more patient discharges, better facilities and medical equipment should be provided to further improve patient care
+d) The case of spinal fusion seems to be widespread among providers, better tools should be available to modify medical treatment
+e) Florida's medicare payment should be increased to better serve the state's citizens
+
